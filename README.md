@@ -3,6 +3,7 @@ An arduino based portable weather station using arduino Uno/Nano/Mega2560 and a 
 (ILI9320/9325/9328/9340/9341) Other driver IC not really supported by library.
 
 I have made the sketch to run the lcd with arduinos reset pin by skipping the Analog 4 pin, which is commonly used to reset the display.
+I uploaded a picture as a small tip.
 Pls take a look at this instructable how to achieve this: 
 https://www.instructables.com/id/24-TFT-LCD-With-I2C-Modules/
 
